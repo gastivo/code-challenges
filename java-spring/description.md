@@ -32,4 +32,3 @@ Please present your solution to us in 10-15 minutes during our meeting. It is im
 
 ## Organization
 The code does not need to be checked in. The application only needs to be runnable on your computer.
-
